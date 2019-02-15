@@ -21,6 +21,13 @@
                 TextColor="Gray"
                 FontSize="Large"
             />
+             <Label
+                 HorizontalOptions="Center"
+                 HorizontalTextAlignment="Center"
+                Text="My favorite artists are: Frank Ocean, SZA, and James Blake"
+                TextColor="Gray"
+                FontSize="Small"
+            />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

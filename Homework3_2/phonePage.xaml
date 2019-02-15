@@ -21,6 +21,13 @@
                 TextColor="Gray"
                 FontSize="Large"
             />
+             <Label
+                 HorizontalTextAlignment="Center"
+                 HorizontalOptions="Center"
+                Text="My favorite mobile apps are:Netflix, Spotify, and PUBG"
+                TextColor="Gray"
+                FontSize="Small"
+            />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
